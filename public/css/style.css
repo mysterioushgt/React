@@ -1,0 +1,174 @@
+/* ---------------------------------------------------------------
+                            General
+------------------------------------------------------------------ */
+
+/* body {
+    background: #f7f0bd !important;
+}
+
+::placeholder {
+    color: gray !important;
+    font-weight: lighter;
+}
+
+label {
+    padding-top: 10% !important;
+}
+
+button {
+    background: #2a1a6f !important;
+} */
+
+/* ---------------------------------------------------------------
+                            #navbar
+------------------------------------------------------------------ */
+
+/* #navbar nav {
+    background: #0000009c !important;
+}
+
+.webViewPosition {
+    text-align: start !important;
+} */
+
+/* ---------------------------------------------------------------
+                            #carousel
+------------------------------------------------------------------ */
+
+/* .carouselHeight {
+    height: 100vh;
+}
+
+#carousel img{
+    width: 100%;
+} */
+
+/* ---------------------------------------------------------------
+                            #login
+------------------------------------------------------------------ */
+
+/* .bglogin {
+    background: #f7f0bd;
+} */
+
+/* ---------------------------------------------------------------
+                            #footer
+------------------------------------------------------------------ */
+
+/* #footer {
+    background: #2a1a6f;
+}
+
+#social {
+    background: white;
+}
+
+#detail p {
+    text-align: justify;
+} */
+
+/* ---------------------------------------------------------------
+                            About
+------------------------------------------------------------------ */
+
+/* .page-title-area {
+    position: relative;
+    z-index: 1;
+}
+
+.paddingValue label {
+    padding: 0 !important;
+} */
+
+/* ---------------------------------------------------------------
+                            profile
+------------------------------------------------------------------ */
+
+/* .main {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(images/back.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.profile-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 500px;
+    width: 100%;
+    border-radius: 25px;
+    padding: 30px;
+    border: 1px solid #ffffff40;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);
+}
+
+.image {
+    position: relative;
+    height: 150px;
+    width: 150px;
+}
+
+.image .profile-pic {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);
+}
+
+.data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.data h2 {
+    font-size: 33px;
+    font-weight: 600;
+}
+
+span {
+    font-size: 18px;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.buttons .btn {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 20px;
+    padding: 8px 25px;
+    border-radius: 25px;
+    font-size: 18px;
+    white-space: nowrap;
+    background: linear-gradient(to left, #33ccff 0%, #ff99cc 100%);
+}
+
+.buttons .btn:hover {
+    box-shadow: inset 0 5px 20px rgba(0, 0, 0, 0.4);
+} */
+
+/* ---------------------------------------------------------------
+                            Media Query
+------------------------------------------------------------------ */
+
+/* @media (max-width:992px) {
+    #navbarsExample11 {
+        justify-content: center !important;
+    }
+
+    .mobileViewButton {
+        background: white !important;
+        margin-bottom: 2rem;
+    }
+} */
